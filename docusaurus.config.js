@@ -54,7 +54,7 @@ const config = {
         { type: 'docSidebar', sidebarId: 'docsSidebar', position: 'left', label: 'Τεκμηρίωση' },
         { to: '/docs/changelog', label: 'Αλλαγές', position: 'left' },
         { type: 'docsVersionDropdown', position: 'right' },
-        { href: 'https://github.com/YOUR-ORG/ergani-docs', label: 'GitHub', position: 'right' },
+        { href: 'https://github.com/panosdotk/ergani-docs', label: 'GitHub', position: 'right' },
       ],
     },
 
