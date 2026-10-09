@@ -1,0 +1,39 @@
+:root {
+  --ifm-color-primary: #0f5ea8;
+  --ifm-color-primary-dark: #0d5597;
+  --ifm-color-primary-darker: #0c5090;
+  --ifm-color-primary-darkest: #0a4276;
+  --ifm-color-primary-light: #1169b9;
+  --ifm-color-primary-lighter: #126fc2;
+  --ifm-color-primary-lightest: #2b82cc;
+  --ifm-code-font-size: 95%;
+}
+
+.hero--primary {
+  background: linear-gradient(135deg, #0f5ea8 0%, #123f73 100%);
+}
+
+.markdown h1 {
+  letter-spacing: -0.02em;
+}
+
+.markdown table {
+  display: table;
+  width: 100%;
+}
+
+.markdown blockquote {
+  border-left-width: 4px;
+}
+
+.docItemContainer {
+  max-width: 950px;
+}
+
+.source-note {
+  font-size: 0.9rem;
+  opacity: 0.8;
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+  padding-top: 0.75rem;
+  margin-top: 2rem;
+}

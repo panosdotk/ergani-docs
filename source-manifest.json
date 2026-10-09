@@ -1,0 +1,188 @@
+[
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/01-section-1.md",
+    "title": "Εισαγωγή"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/02-section-2.md",
+    "title": "Απογραφική διαδικασία Ωραρίου Απασχόλησης"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/03-section-3.md",
+    "title": "Μηχανισμός Ψηφιακής Κάρτας Εργασίας"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/04-section-4.md",
+    "title": "Υποβολή δηλώσεων στο ΠΣ Εργάνη"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/05-xml.md",
+    "title": "Υποβολές με XML"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/06-web-api-rest.md",
+    "title": "Web API (REST)"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/07-section-7.md",
+    "title": "Σύστημα Εκτέλεσης Υπηρεσιών Διαλειτουργικότητας"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/08-section-8.md",
+    "title": "Συνοδευτικά αρχεία"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/09-section-9.md",
+    "title": "Τύποι Οργάνωσης Χρόνου Εργασίας"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/10-ergani-cardscanner.md",
+    "title": "Ergani CardScanner"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/11-faq.md",
+    "title": "FAQ — Απογραφή και Ψηφιακή Οργάνωση"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/12-faq.md",
+    "title": "FAQ — Μηχανισμός Κάρτας Εργασίας"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/13-faq-api.md",
+    "title": "FAQ — API / Διασύνδεση"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/14-faq-ergani-cardscanner.md",
+    "title": "FAQ — Ergani CardScanner"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/15-section-15.md",
+    "title": "Ανακοινώσεις — Ενημερώσεις"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/16-section-16.md",
+    "title": "Μητρώα"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/17-section-17.md",
+    "title": "Νομοθετικό Πλαίσιο"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/18-section-18.md",
+    "title": "Κανονιστικό Πλαίσιο"
+  },
+  {
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "path": "docs/source-archive/2024/19-section-19.md",
+    "title": "Πληροφορίες για Ερωτήσεις και Απαντήσεις"
+  },
+  {
+    "version": "2022",
+    "source": "Odigos Efarmogis ERGANI II nees diadikasies ekd_20 10 2022_1.pdf",
+    "path": "versioned_docs/version-2022/source/01-section-1.md",
+    "title": "Εισαγωγή"
+  },
+  {
+    "version": "2022",
+    "source": "Odigos Efarmogis ERGANI II nees diadikasies ekd_20 10 2022_1.pdf",
+    "path": "versioned_docs/version-2022/source/02-section-2.md",
+    "title": "Απογραφική διαδικασία Ωραρίου Απασχόλησης"
+  },
+  {
+    "version": "2022",
+    "source": "Odigos Efarmogis ERGANI II nees diadikasies ekd_20 10 2022_1.pdf",
+    "path": "versioned_docs/version-2022/source/03-section-3.md",
+    "title": "Υποβολή δηλώσεων στο ΠΣ Εργάνη"
+  },
+  {
+    "version": "2022",
+    "source": "Odigos Efarmogis ERGANI II nees diadikasies ekd_20 10 2022_1.pdf",
+    "path": "versioned_docs/version-2022/source/04-web-api-rest.md",
+    "title": "Web API (REST)"
+  },
+  {
+    "version": "2022",
+    "source": "Odigos Efarmogis ERGANI II nees diadikasies ekd_20 10 2022_1.pdf",
+    "path": "versioned_docs/version-2022/source/05-section-5.md",
+    "title": "Εκτέλεση υπηρεσιών Διαλειτουργικότητας"
+  },
+  {
+    "version": "2022",
+    "source": "Odigos Efarmogis ERGANI II nees diadikasies ekd_20 10 2022_1.pdf",
+    "path": "versioned_docs/version-2022/source/06-section-6.md",
+    "title": "Δοκιμαστικό και Παραγωγικό περιβάλλον"
+  },
+  {
+    "version": "2022",
+    "source": "Odigos Efarmogis ERGANI II nees diadikasies ekd_20 10 2022_1.pdf",
+    "path": "versioned_docs/version-2022/source/07-section-7.md",
+    "title": "Συνοδευτικά αρχεία"
+  },
+  {
+    "version": "2022",
+    "source": "Odigos Efarmogis ERGANI II nees diadikasies ekd_20 10 2022_1.pdf",
+    "path": "versioned_docs/version-2022/source/08-sms.md",
+    "title": "Ατομικός μέσω SMS"
+  },
+  {
+    "version": "2022",
+    "source": "Odigos Efarmogis ERGANI II nees diadikasies ekd_20 10 2022_1.pdf",
+    "path": "versioned_docs/version-2022/source/09-section-9.md",
+    "title": "Τύποι Οργάνωσης Χρόνου Εργασίας"
+  },
+  {
+    "version": "2022",
+    "source": "Odigos Efarmogis ERGANI II nees diadikasies ekd_20 10 2022_1.pdf",
+    "path": "versioned_docs/version-2022/source/10-section-10.md",
+    "title": "Νομοθετικό Πλαίσιο"
+  },
+  {
+    "version": "2022",
+    "source": "Odigos Efarmogis ERGANI II nees diadikasies ekd_20 10 2022_1.pdf",
+    "path": "versioned_docs/version-2022/source/11-section-11.md",
+    "title": "Κανονιστικό Πλαίσιο"
+  },
+  {
+    "version": "2022",
+    "source": "Odigos Efarmogis ERGANI II nees diadikasies ekd_20 10 2022_1.pdf",
+    "path": "versioned_docs/version-2022/source/12-section-12.md",
+    "title": "Χρήσιμες Ερωτήσεις και Απαντήσεις"
+  }
+]

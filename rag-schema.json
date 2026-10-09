@@ -1,0 +1,18 @@
+{
+  "schema": {
+    "title": "string",
+    "version": "string",
+    "source": "string",
+    "section": "string",
+    "url": "string",
+    "content": "string"
+  },
+  "example": {
+    "title": "Εκπρόθεσμη δήλωση Κάρτας",
+    "version": "2024",
+    "source": "Eniaios odigos orariou kartas ergasias 01 01 2024.pdf",
+    "section": "FAQ / Card events",
+    "url": "/docs/digital-card/late-submission",
+    "content": "Ο οδηγός αναφέρει μέγιστη καθυστέρηση 15' ± 1'."
+  }
+}

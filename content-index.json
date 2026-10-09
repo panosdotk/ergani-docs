@@ -1,0 +1,152 @@
+[
+  {
+    "path": "docs/ai/implementation.md",
+    "title": "AI Q&A — Πλάνο υλοποίησης",
+    "language": "el"
+  },
+  {
+    "path": "docs/ai/overview.md",
+    "title": "AI Q&A — Αρχιτεκτονική",
+    "language": "el"
+  },
+  {
+    "path": "docs/api/authentication.md",
+    "title": "Authentication",
+    "language": "el"
+  },
+  {
+    "path": "docs/api/card-submission.md",
+    "title": "API — Υποβολή Κάρτας",
+    "language": "el"
+  },
+  {
+    "path": "docs/api/documents.md",
+    "title": "Documents / Υποβολές",
+    "language": "el"
+  },
+  {
+    "path": "docs/api/endpoints.md",
+    "title": "Endpoints",
+    "language": "el"
+  },
+  {
+    "path": "docs/api/examples.md",
+    "title": "Παραδείγματα API",
+    "language": "el"
+  },
+  {
+    "path": "docs/api/overview.md",
+    "title": "API / Διαλειτουργικότητα",
+    "language": "el"
+  },
+  {
+    "path": "docs/api/xml.md",
+    "title": "XML",
+    "language": "el"
+  },
+  {
+    "path": "docs/changelog.md",
+    "title": "Ιστορικό αλλαγών",
+    "language": "el"
+  },
+  {
+    "path": "docs/digital-card/actual-work-calendar.md",
+    "title": "Ημερολόγιο Πραγματικής Απασχόλησης",
+    "language": "el"
+  },
+  {
+    "path": "docs/digital-card/cardscanner.md",
+    "title": "Ergani CardScanner",
+    "language": "el"
+  },
+  {
+    "path": "docs/digital-card/flexible-arrival.md",
+    "title": "Ευέλικτη Προσέλευση",
+    "language": "el"
+  },
+  {
+    "path": "docs/digital-card/late-submission.md",
+    "title": "Εκπρόθεσμη δήλωση",
+    "language": "el"
+  },
+  {
+    "path": "docs/digital-card/overview.md",
+    "title": "Ψηφιακή Κάρτα — Επισκόπηση",
+    "language": "el"
+  },
+  {
+    "path": "docs/digital-card/start-end.md",
+    "title": "Έναρξη / Λήξη Κάρτας",
+    "language": "el"
+  },
+  {
+    "path": "docs/digital-card/statuses.md",
+    "title": "Καταστάσεις δήλωσης Κάρτας",
+    "language": "el"
+  },
+  {
+    "path": "docs/ergani-ii/current-state.md",
+    "title": "Τρέχουσα Κατάσταση Ψηφιακής Οργάνωσης",
+    "language": "el"
+  },
+  {
+    "path": "docs/ergani-ii/digital-organization.md",
+    "title": "Ψηφιακή Οργάνωση Χρόνου Εργασίας",
+    "language": "el"
+  },
+  {
+    "path": "docs/ergani-ii/leave.md",
+    "title": "Άδειες",
+    "language": "el"
+  },
+  {
+    "path": "docs/ergani-ii/overtime.md",
+    "title": "Υπερωρίες",
+    "language": "el"
+  },
+  {
+    "path": "docs/ergani-ii/overview.md",
+    "title": "ΕΡΓΑΝΗ II — Επισκόπηση",
+    "language": "el"
+  },
+  {
+    "path": "docs/ergani-ii/schedule.md",
+    "title": "Ωράριο Απασχόλησης",
+    "language": "el"
+  },
+  {
+    "path": "docs/faq/api.md",
+    "title": "FAQ API",
+    "language": "el"
+  },
+  {
+    "path": "docs/faq/digital-card.md",
+    "title": "FAQ Ψηφιακής Κάρτας",
+    "language": "el"
+  },
+  {
+    "path": "docs/faq/general.md",
+    "title": "Γενικό FAQ",
+    "language": "el"
+  },
+  {
+    "path": "docs/intro.md",
+    "title": "ΕΡΓΑΝΗ Documentation",
+    "language": "el"
+  },
+  {
+    "path": "docs/reference/glossary.md",
+    "title": "Γλωσσάρι",
+    "language": "el"
+  },
+  {
+    "path": "docs/reference/rules.md",
+    "title": "Πίνακας βασικών κανόνων",
+    "language": "el"
+  },
+  {
+    "path": "docs/reference/sources.md",
+    "title": "Πηγές",
+    "language": "el"
+  }
+]
