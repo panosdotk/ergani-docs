@@ -50,6 +50,11 @@
     "language": "el"
   },
   {
+    "path": "docs/changes/2022-2024-2026.md",
+    "title": "Σύγκριση οδηγών 2022, 2024 και 2026",
+    "language": "el"
+  },
+  {
     "path": "docs/digital-card/actual-work-calendar.md",
     "title": "Ημερολόγιο Πραγματικής Απασχόλησης",
     "language": "el"
@@ -95,8 +100,18 @@
     "language": "el"
   },
   {
+    "path": "docs/ergani-ii/employment-lifecycle.md",
+    "title": "Έναρξη, μεταβολή και λήξη εργασίας",
+    "language": "el"
+  },
+  {
     "path": "docs/ergani-ii/leave.md",
     "title": "Άδειες",
+    "language": "el"
+  },
+  {
+    "path": "docs/ergani-ii/monthly-employment-status.md",
+    "title": "Μηνιαία Εργασιακή Κατάσταση",
     "language": "el"
   },
   {
@@ -115,6 +130,11 @@
     "language": "el"
   },
   {
+    "path": "docs/ergani-ii/transition-2026.md",
+    "title": "Μεταβατικές υποχρεώσεις κατά την έναρξη του ΕΡΓΑΝΗ II",
+    "language": "el"
+  },
+  {
     "path": "docs/faq/api.md",
     "title": "FAQ API",
     "language": "el"
@@ -126,7 +146,7 @@
   },
   {
     "path": "docs/faq/general.md",
-    "title": "Γενικό FAQ",
+    "title": "FAQ — Γενικά και πρόσβαση",
     "language": "el"
   },
   {
@@ -146,7 +166,212 @@
   },
   {
     "path": "docs/reference/sources.md",
-    "title": "Πηγές",
+    "title": "Πηγές και εκδόσεις",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/01-section-1.md",
+    "title": "Εισαγωγή",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/02-section-2.md",
+    "title": "Απογραφική διαδικασία Ωραρίου Απασχόλησης",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/03-section-3.md",
+    "title": "Μηχανισμός Ψηφιακής Κάρτας Εργασίας",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/04-section-4.md",
+    "title": "Υποβολή δηλώσεων στο ΠΣ Εργάνη",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/05-xml.md",
+    "title": "Υποβολές με XML",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/06-web-api-rest.md",
+    "title": "Web API (REST)",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/07-section-7.md",
+    "title": "Σύστημα Εκτέλεσης Υπηρεσιών Διαλειτουργικότητας",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/08-section-8.md",
+    "title": "Συνοδευτικά αρχεία",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/09-section-9.md",
+    "title": "Τύποι Οργάνωσης Χρόνου Εργασίας",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/10-ergani-cardscanner.md",
+    "title": "Ergani CardScanner",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/11-faq.md",
+    "title": "FAQ — Απογραφή και Ψηφιακή Οργάνωση",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/12-faq.md",
+    "title": "FAQ — Μηχανισμός Κάρτας Εργασίας",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/13-faq-api.md",
+    "title": "FAQ — API / Διασύνδεση",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/14-faq-ergani-cardscanner.md",
+    "title": "FAQ — Ergani CardScanner",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/15-section-15.md",
+    "title": "Ανακοινώσεις — Ενημερώσεις",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/16-section-16.md",
+    "title": "Μητρώα",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/17-section-17.md",
+    "title": "Νομοθετικό Πλαίσιο",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/18-section-18.md",
+    "title": "Κανονιστικό Πλαίσιο",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2024/19-section-19.md",
+    "title": "Πληροφορίες για Ερωτήσεις και Απαντήσεις",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-extended/01-01-introduction-environments.md",
+    "title": "Εισαγωγή και περιβάλλοντα — Οδηγός Εφαρμογής",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-extended/02-02-navigation.md",
+    "title": "Αρχική σελίδα και βασικά μενού — Οδηγός Εφαρμογής",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-extended/03-03-registers-access.md",
+    "title": "Μητρώα και πρόσβαση — Οδηγός Εφαρμογής",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-extended/04-04-employment-lifecycle.md",
+    "title": "Ενάρξεις, μεταβολές και λήξεις εργασίας — Οδηγός Εφαρμογής",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-extended/05-05-working-time-card.md",
+    "title": "Χρόνος εργασίας, άδειες και ψηφιακή κάρτα — Οδηγός Εφαρμογής",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-extended/06-06-special-employment.md",
+    "title": "Ειδικές μορφές απασχόλησης — Οδηγός Εφαρμογής",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-extended/07-07-special-procedures.md",
+    "title": "Ειδικές διαδικασίες — Οδηγός Εφαρμογής",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-extended/08-08-labour-inspection.md",
+    "title": "Επιθεώρηση Εργασίας — Οδηγός Εφαρμογής",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-extended/09-09-dypa.md",
+    "title": "ΔΥΠΑ — Οδηγός Εφαρμογής",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-extended/10-10-special-purpose.md",
+    "title": "Διαδικασίες ειδικού σκοπού — Οδηγός Εφαρμογής",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-extended/11-11-inspection-start.md",
+    "title": "Δήλωση έναρξης ελέγχου — Οδηγός Εφαρμογής",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-extended/12-12-xml-bulk-submissions.md",
+    "title": "Βοηθητικά, XML και ομαδικές υποβολές — Οδηγός Εφαρμογής",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-extended/13-13-monthly-employment-status.md",
+    "title": "Εξαγωγή στοιχείων και Μηνιαία Εργασιακή Κατάσταση — Οδηγός Εφαρμογής",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-extended/14-14-appendices.md",
+    "title": "Παραρτήματα: ορισμοί, έλεγχοι και ψηφιακές δηλώσεις — Οδηγός Εφαρμογής",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-extended/15-15-contact.md",
+    "title": "Επικοινωνία — Οδηγός Εφαρμογής",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-short/01-01-environments-access.md",
+    "title": "Περιβάλλοντα και πρόσβαση — Συνοπτικός Οδηγός",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-short/02-02-menu-home.md",
+    "title": "Αρχική σελίδα και μενού — Συνοπτικός Οδηγός",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-short/03-03-obligations.md",
+    "title": "Συνοπτικός οδηγός εκπλήρωσης υποχρεώσεων — Συνοπτικός Οδηγός",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-short/04-04-transition-new-declarations.md",
+    "title": "Μετάβαση και νέες ψηφιακές δηλώσεις — Συνοπτικός Οδηγός",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-short/05-05-special-cases.md",
+    "title": "Ειδικές περιπτώσεις και μεταβολές απασχόλησης — Συνοπτικός Οδηγός",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-short/06-06-transitional-obligations.md",
+    "title": "Μεταβατικές υποχρεώσεις εργοδοτών — Συνοπτικός Οδηγός",
+    "language": "el"
+  },
+  {
+    "path": "docs/source-archive/2026-short/07-07-change-table.md",
+    "title": "Συνοπτικός πίνακας αλλαγών — Συνοπτικός Οδηγός",
     "language": "el"
   }
 ]

@@ -184,5 +184,159 @@
     "source": "Odigos Efarmogis ERGANI II nees diadikasies ekd_20 10 2022_1.pdf",
     "path": "versioned_docs/version-2022/source/12-section-12.md",
     "title": "Χρήσιμες Ερωτήσεις και Απαντήσεις"
+  },
+  {
+    "version": "2026-short",
+    "source": "Ergani II_Short_Manual_13.02.2026.pdf",
+    "path": "docs/source-archive/2026-short/01-01-environments-access.md",
+    "title": "Περιβάλλοντα και πρόσβαση — Συνοπτικός Οδηγός",
+    "pdf_pages": "4-8"
+  },
+  {
+    "version": "2026-short",
+    "source": "Ergani II_Short_Manual_13.02.2026.pdf",
+    "path": "docs/source-archive/2026-short/02-02-menu-home.md",
+    "title": "Αρχική σελίδα και μενού — Συνοπτικός Οδηγός",
+    "pdf_pages": "9-16"
+  },
+  {
+    "version": "2026-short",
+    "source": "Ergani II_Short_Manual_13.02.2026.pdf",
+    "path": "docs/source-archive/2026-short/03-03-obligations.md",
+    "title": "Συνοπτικός οδηγός εκπλήρωσης υποχρεώσεων — Συνοπτικός Οδηγός",
+    "pdf_pages": "17-23"
+  },
+  {
+    "version": "2026-short",
+    "source": "Ergani II_Short_Manual_13.02.2026.pdf",
+    "path": "docs/source-archive/2026-short/04-04-transition-new-declarations.md",
+    "title": "Μετάβαση και νέες ψηφιακές δηλώσεις — Συνοπτικός Οδηγός",
+    "pdf_pages": "24-29"
+  },
+  {
+    "version": "2026-short",
+    "source": "Ergani II_Short_Manual_13.02.2026.pdf",
+    "path": "docs/source-archive/2026-short/05-05-special-cases.md",
+    "title": "Ειδικές περιπτώσεις και μεταβολές απασχόλησης — Συνοπτικός Οδηγός",
+    "pdf_pages": "30-41"
+  },
+  {
+    "version": "2026-short",
+    "source": "Ergani II_Short_Manual_13.02.2026.pdf",
+    "path": "docs/source-archive/2026-short/06-06-transitional-obligations.md",
+    "title": "Μεταβατικές υποχρεώσεις εργοδοτών — Συνοπτικός Οδηγός",
+    "pdf_pages": "42-44"
+  },
+  {
+    "version": "2026-short",
+    "source": "Ergani II_Short_Manual_13.02.2026.pdf",
+    "path": "docs/source-archive/2026-short/07-07-change-table.md",
+    "title": "Συνοπτικός πίνακας αλλαγών — Συνοπτικός Οδηγός",
+    "pdf_pages": "45-47"
+  },
+  {
+    "version": "2026-extended",
+    "source": "Ergani II_Extended_Manual_20.02.2026.pdf",
+    "path": "docs/source-archive/2026-extended/01-01-introduction-environments.md",
+    "title": "Εισαγωγή και περιβάλλοντα — Οδηγός Εφαρμογής",
+    "pdf_pages": "7-18"
+  },
+  {
+    "version": "2026-extended",
+    "source": "Ergani II_Extended_Manual_20.02.2026.pdf",
+    "path": "docs/source-archive/2026-extended/02-02-navigation.md",
+    "title": "Αρχική σελίδα και βασικά μενού — Οδηγός Εφαρμογής",
+    "pdf_pages": "19-28"
+  },
+  {
+    "version": "2026-extended",
+    "source": "Ergani II_Extended_Manual_20.02.2026.pdf",
+    "path": "docs/source-archive/2026-extended/03-03-registers-access.md",
+    "title": "Μητρώα και πρόσβαση — Οδηγός Εφαρμογής",
+    "pdf_pages": "29-40"
+  },
+  {
+    "version": "2026-extended",
+    "source": "Ergani II_Extended_Manual_20.02.2026.pdf",
+    "path": "docs/source-archive/2026-extended/04-04-employment-lifecycle.md",
+    "title": "Ενάρξεις, μεταβολές και λήξεις εργασίας — Οδηγός Εφαρμογής",
+    "pdf_pages": "41-128"
+  },
+  {
+    "version": "2026-extended",
+    "source": "Ergani II_Extended_Manual_20.02.2026.pdf",
+    "path": "docs/source-archive/2026-extended/05-05-working-time-card.md",
+    "title": "Χρόνος εργασίας, άδειες και ψηφιακή κάρτα — Οδηγός Εφαρμογής",
+    "pdf_pages": "129-218"
+  },
+  {
+    "version": "2026-extended",
+    "source": "Ergani II_Extended_Manual_20.02.2026.pdf",
+    "path": "docs/source-archive/2026-extended/06-06-special-employment.md",
+    "title": "Ειδικές μορφές απασχόλησης — Οδηγός Εφαρμογής",
+    "pdf_pages": "219-303"
+  },
+  {
+    "version": "2026-extended",
+    "source": "Ergani II_Extended_Manual_20.02.2026.pdf",
+    "path": "docs/source-archive/2026-extended/07-07-special-procedures.md",
+    "title": "Ειδικές διαδικασίες — Οδηγός Εφαρμογής",
+    "pdf_pages": "304-333"
+  },
+  {
+    "version": "2026-extended",
+    "source": "Ergani II_Extended_Manual_20.02.2026.pdf",
+    "path": "docs/source-archive/2026-extended/08-08-labour-inspection.md",
+    "title": "Επιθεώρηση Εργασίας — Οδηγός Εφαρμογής",
+    "pdf_pages": "334-336"
+  },
+  {
+    "version": "2026-extended",
+    "source": "Ergani II_Extended_Manual_20.02.2026.pdf",
+    "path": "docs/source-archive/2026-extended/09-09-dypa.md",
+    "title": "ΔΥΠΑ — Οδηγός Εφαρμογής",
+    "pdf_pages": "337-338"
+  },
+  {
+    "version": "2026-extended",
+    "source": "Ergani II_Extended_Manual_20.02.2026.pdf",
+    "path": "docs/source-archive/2026-extended/10-10-special-purpose.md",
+    "title": "Διαδικασίες ειδικού σκοπού — Οδηγός Εφαρμογής",
+    "pdf_pages": "339-346"
+  },
+  {
+    "version": "2026-extended",
+    "source": "Ergani II_Extended_Manual_20.02.2026.pdf",
+    "path": "docs/source-archive/2026-extended/11-11-inspection-start.md",
+    "title": "Δήλωση έναρξης ελέγχου — Οδηγός Εφαρμογής",
+    "pdf_pages": "347-347"
+  },
+  {
+    "version": "2026-extended",
+    "source": "Ergani II_Extended_Manual_20.02.2026.pdf",
+    "path": "docs/source-archive/2026-extended/12-12-xml-bulk-submissions.md",
+    "title": "Βοηθητικά, XML και ομαδικές υποβολές — Οδηγός Εφαρμογής",
+    "pdf_pages": "348-357"
+  },
+  {
+    "version": "2026-extended",
+    "source": "Ergani II_Extended_Manual_20.02.2026.pdf",
+    "path": "docs/source-archive/2026-extended/13-13-monthly-employment-status.md",
+    "title": "Εξαγωγή στοιχείων και Μηνιαία Εργασιακή Κατάσταση — Οδηγός Εφαρμογής",
+    "pdf_pages": "358-369"
+  },
+  {
+    "version": "2026-extended",
+    "source": "Ergani II_Extended_Manual_20.02.2026.pdf",
+    "path": "docs/source-archive/2026-extended/14-14-appendices.md",
+    "title": "Παραρτήματα: ορισμοί, έλεγχοι και ψηφιακές δηλώσεις — Οδηγός Εφαρμογής",
+    "pdf_pages": "370-405"
+  },
+  {
+    "version": "2026-extended",
+    "source": "Ergani II_Extended_Manual_20.02.2026.pdf",
+    "path": "docs/source-archive/2026-extended/15-15-contact.md",
+    "title": "Επικοινωνία — Οδηγός Εφαρμογής",
+    "pdf_pages": "406-406"
   }
 ]

@@ -1,26 +1,24 @@
-# ΕΡΓΑΝΗ Documentation — v0.2
+# ΕΡΓΑΝΗ Documentation — v0.4
 
-Starter/knowledge-base project για online documentation πάνω στα δύο παρεχόμενα εγχειρίδια ΕΡΓΑΝΗ II.
+Docusaurus knowledge base για ΕΡΓΑΝΗ II, ενημερωμένη με τους οδηγούς Φεβρουαρίου 2026.
 
-## Περιεχόμενο
+## Πηγές
 
-- ΕΡΓΑΝΗ II
-- Ψηφιακή Οργάνωση Χρόνου
-- Ωράριο / Άδειες / Υπερωρίες
-- Τρέχουσα Κατάσταση
-- Ψηφιακή Κάρτα
-- Start / End
-- Εκπρόθεσμες δηλώσεις
-- Ευέλικτη προσέλευση
-- Ημερολόγιο Πραγματικής Απασχόλησης
-- CardScanner
-- API / REST
-- XML
-- FAQ
-- Reference / Glossary / Rules
-- AI Q&A architecture
+- `Ergani II_Short_Manual_13.02.2026.pdf` — Συνοπτικός Οδηγός, έκδοση 12.02.2026 (το εξώφυλλο αναφέρει τελευταία ενημέρωση 23/04/2025).
+- `Ergani II_Extended_Manual_20.02.2026.pdf` — Οδηγός Εφαρμογής, έκδοση 20.02.2026.
+- `Eniaios odigos orariou kartas ergasias 01 01 2024.pdf` — ιστορική τεχνική πηγή για Ψηφιακή Κάρτα / API.
+- `Odigos Efarmogis ERGANI II nees diadikasies ekd_20 10 2022_1.pdf` — ιστορική πηγή για τις διαδικασίες του 2022.
 
-## Run locally
+## Περιεχόμενο v0.4
+
+- Επισκόπηση νέων ροών Έναρξης / Μεταβολής / Λήξης Εργασίας.
+- Μεταβατικές υποχρεώσεις που περιγράφονται στους οδηγούς 2026.
+- Μηνιαία Εργασιακή Κατάσταση.
+- Ενημερωμένες διευθύνσεις δοκιμαστικού και παραγωγικού API v2.
+- Σύγκριση οδηγών 2022, 2024 και 2026.
+- Αρχειακές μεταγραφές των νέων εγχειριδίων και snapshots εκδόσεων 2024/2022.
+
+## Εκτέλεση τοπικά
 
 ```bash
 npm install
@@ -34,54 +32,29 @@ npm run build
 npm run serve
 ```
 
-## Search
+## Cloudflare Workers (static assets)
 
-Το `docusaurus.config.js` έχει έτοιμο commented configuration για Algolia.
-
-Η επίσημη Docusaurus documentation αναφέρει ότι το preset-classic υποστηρίζει Algolia DocSearch και contextual search ανά version/language.
-
-Μετά το deployment:
-
-1. κάνε public το site,
-2. κάνε αίτηση για Algolia DocSearch ή χρησιμοποίησε δικό σου crawler,
-3. συμπλήρωσε `appId`, `apiKey`, `indexName`,
-4. ενεργοποίησε `contextualSearch`.
+Το `wrangler.jsonc` δηλώνει τον φάκελο `build` ως static assets. Το build command είναι `npm run build`. Στο Cloudflare, η εντολή deploy πρέπει να αντιστοιχεί στη ρύθμιση Workers/Assets που έχει επιλεγεί.
 
 ## Versioning
 
-Το project είναι δομημένο ώστε να περάσει σε πραγματικό Docusaurus versioning όταν αποκτηθούν πλήρεις snapshots ανά έκδοση.
+- Current / latest: 2026
+- Historical: 2024
+- Historical: 2022
 
-Παράδειγμα:
+Το `docs/` είναι η έκδοση 2026. Τα `versioned_docs/version-2024/` και `versioned_docs/version-2022/` διατηρούν παλαιότερες εκδόσεις.
 
-```bash
-npm run docusaurus docs:version 2024
-```
+## Σημαντικό — πνευματικά δικαιώματα
 
-Η Docusaurus διατηρεί ξεχωριστό `versioned_docs/` snapshot και `versioned_sidebars/` για κάθε version.
+Οι οδηγοί του Υπουργείου περιλαμβάνουν περιορισμούς εμπορικής αντιγραφής/διανομής. Επιτρέπουν μη κερδοσκοπική, εκπαιδευτική ή ερευνητική χρήση με αναφορά πηγής και διατήρηση της δήλωσης δικαιωμάτων. Για εμπορική χρήση των PDF ή εκτεταμένων μεταγραφών απαιτείται επικοινωνία/άδεια από το Υπουργείο. Πριν κάνετε public το repository ή τα πλήρη κείμενα, ελέγξτε ότι η χρήση σας καλύπτεται.
 
-## Source files
+## Επίσημα περιβάλλοντα
 
-Τα αρχικά PDF παραμένουν στον φάκελο:
+- Trial: https://trialv2eservices.yeka.gr/
+- Trial REST API: https://trialv2eservices.yeka.gr/WebservicesAPI/Api/
+- Trial REST API UI: https://trialv2eservices.yeka.gr/WebservicesAPIUI/
+- Production: https://eservices.yeka.gr/
+- Production REST API: https://eservices.yeka.gr/WebservicesAPI/Api/
+- Production REST API UI: https://eservices.yeka.gr/WebservicesAPIUI/
 
-```text
-sources/
-```
-
-## Production checklist
-
-- [ ] Αλλαγή `url`
-- [ ] Αλλαγή `organizationName`
-- [ ] Αλλαγή GitHub URL
-- [ ] Προσθήκη favicon
-- [ ] Algolia search
-- [ ] Custom domain
-- [ ] HTTPS
-- [ ] Analytics (αν απαιτείται)
-- [ ] Πλήρης μεταφορά όλων των sections των PDF
-- [ ] Νεότερες επίσημες εκδόσεις / ανακοινώσεις
-- [ ] Review όλων των API examples
-- [ ] AI retrieval + citations
-
-## Σημαντικό
-
-Το documentation δεν πρέπει να θεωρεί παλιό οδηγό ως σημερινό κανονιστικό κανόνα. Για κάθε σελίδα πρέπει να εμφανίζεται η έκδοση της πηγής.
+Οι διευθύνσεις και τα τεχνικά payloads πρέπει να επιβεβαιώνονται έναντι των τρεχουσών επίσημων ανακοινώσεων και των συνοδευτικών JSON examples.

@@ -1,0 +1,32 @@
+---
+id: endpoints
+title: Endpoints
+sidebar_position: 3
+---
+
+# Endpoints
+
+Ο οδηγός 01.01.2024 περιλαμβάνει τα ακόλουθα βασικά routes:
+
+| Route | Method | Χρήση |
+|---|---:|---|
+| `Authentication` | POST | Authentication |
+| `Authentication/Refresh` | POST | Ανανέωση access token |
+| `Authentication/Logout` | POST | Logout |
+| `Lookup/Submissions` | GET | Ανάκτηση ενεργών υποβολών |
+| `Documents/{code}` | GET | Ανάκτηση στοιχείων διαδικασίας |
+| `Documents/{code}` | POST | Νέα υποβολή |
+| `ServicesList` | GET/σύμφωνα με οδηγό | Λίστα υπηρεσιών |
+| `ExecuteService` | σύμφωνα με οδηγό | Εκτέλεση υπηρεσίας |
+
+Ο ακριβής τρόπος κλήσης πρέπει να ακολουθεί το αντίστοιχο τμήμα του επίσημου οδηγού.
+
+## Ενεργές υποβολές
+
+Το `Lookup/Submissions` επιστρέφει ενεργές υποβολές. Ο οδηγός δίνει, μεταξύ άλλων, κωδικούς:
+
+- `WRKCardSE` — Δήλωση έναρξης/λήξης εργασίας
+- `WKChgWK` — Δήλωση Μεταβολής Στοιχείων Εργασιακής Σχέσης
+- `E3` — Ε3 Ενιαίο Έντυπο Αναγγελίας Πρόσληψης
+- `WTODaily` — Μεταβαλλόμενο / Τροποποιούμενο ανά Ημέρα
+- `WTOWeek` — Σταθερό Εβδομαδιαίο

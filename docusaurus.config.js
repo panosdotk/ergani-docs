@@ -5,15 +5,16 @@ const config = {
   tagline: 'ΕΡΓΑΝΗ II · Ψηφιακή Οργάνωση · Ψηφιακή Κάρτα',
   favicon: 'img/favicon.ico',
 
-  url: 'https://YOUR-DOMAIN.example',
+  url: 'https://ergani-docs.panosdotk.workers.dev',
   baseUrl: '/',
 
-  organizationName: 'YOUR-ORG',
+  organizationName: 'panosdotk',
   projectName: 'ergani-docs',
 
   onBrokenLinks: 'warn',
 
   markdown: {
+    format: 'md',
     hooks: {
       onBrokenMarkdownLinks: 'warn',
     },
@@ -30,13 +31,11 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // This repository may be distributed before its first Git commit.
-          // Avoid making the documentation build depend on commit history.
-          showLastUpdateTime: false,
+          showLastUpdateTime: true,
           showLastUpdateAuthor: false,
           lastVersion: 'current',
           includeCurrentVersion: true,
-          versions: { current: { label: '2024', path: '' }, '2022': { label: '2022', path: '2022', banner: 'unmaintained', badge: true } },
+          versions: { current: { label: '2026', path: '' }, '2024': { label: '2024', path: '2024', banner: 'unmaintained', badge: true }, '2022': { label: '2022', path: '2022', banner: 'unmaintained', badge: true } },
           breadcrumbs: true,
         },
         blog: false,
@@ -52,7 +51,7 @@ const config = {
       title: 'ΕΡΓΑΝΗ Documentation',
       items: [
         { type: 'docSidebar', sidebarId: 'docsSidebar', position: 'left', label: 'Τεκμηρίωση' },
-        { to: '/docs/changelog', label: 'Αλλαγές', position: 'left' },
+        { to: '/docs/changes/2022-2024-2026', label: 'Σύγκριση εκδόσεων', position: 'left' },
         { type: 'docsVersionDropdown', position: 'right' },
         { href: 'https://github.com/panosdotk/ergani-docs', label: 'GitHub', position: 'right' },
       ],
